@@ -15,6 +15,12 @@ rm -rf docs
 ln -s /Users/terry/nuecms-workspace/gomoku/docs docs
 ```
 
+## App Store
+
+- **App Store ID**: `6771268165`
+- **Public App Store link**: https://apps.apple.com/app/id6771268165
+- **App Store Connect (developer)**: https://appstoreconnect.apple.com/apps/6771268165/distribution/info
+
 ## Documentation
 
 This site is built with [VitePress](https://vitepress.dev/) and contains guides for the Gomoku project.

@@ -6,7 +6,7 @@ hero:
   text: "Play Gomoku — rules, guides, and tools."
   tagline: "Official documentation and guides for the Gomoku project."
   image:
-    src: /hero-illustration.svg
+    src: /hero-illustration.png
     alt: Gomoku Illustration
   actions:
     - theme: brand

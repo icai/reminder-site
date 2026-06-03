@@ -518,7 +518,7 @@ const faqs = [
 
 .hero-image img {
   width: 100%;
-  max-width: 400px;
+  max-width: 700px;
   height: auto;
 }
 

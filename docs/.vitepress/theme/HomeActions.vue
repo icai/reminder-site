@@ -5,7 +5,7 @@ import { withBase } from 'vitepress'
 <template>
   <div class="home-badge-row">
     <a
-      href="/guide/installation" target="_self" rel="noopener noreferrer"
+      href="https://apps.apple.com/us/app/gomoku-lan/id6771268165?mt=12" target="_blank" rel="noopener noreferrer"
       class="store-badge-link"
       aria-label="Gomoku installation guide"
     >
@@ -17,7 +17,7 @@ import { withBase } from 'vitepress'
         height="46"
       />
     </a>
-    <a
+    <!-- <a
       href="/guide/installation" target="_self" rel="noopener noreferrer"
       class="store-badge-link"
       aria-label="Gomoku installation guide"
@@ -29,6 +29,6 @@ import { withBase } from 'vitepress'
         width="196"
         height="46"
       />
-    </a>
+    </a> -->
   </div>
 </template>

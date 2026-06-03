@@ -7,6 +7,11 @@ This page explains how to install Gomoku on macOS and covers common issues you m
 - **Mac App Store** — If an App Store build is published, install from the App Store for automatic updates.
 - **GitHub Releases** — Download the latest macOS build (.dmg or .zip) from the project's Releases page: `https://github.com/your-org/gomoku/releases`.
 
+If an App Store build is available, you can find the app by its numeric App Store ID: `6771268165`.
+
+- Public App Store link: https://apps.apple.com/app/id6771268165
+- Developer (App Store Connect): https://appstoreconnect.apple.com/apps/6771268165/distribution/info
+
 If you don't see an App Store entry yet, use the GitHub Releases download.
 
 ## Installing from a .dmg (recommended for most users)
@@ -46,7 +51,6 @@ rm -rf ~/Library/Containers/com.w3cub.gomoku
 rm -rf ~/Library/Logs/gomoku
 ```
 
-See `docs/macos-sandbox-paths.md` in the source project for details about sandboxed paths.
 
 ## System Requirements
 
