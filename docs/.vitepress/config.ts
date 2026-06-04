@@ -58,7 +58,7 @@ export default defineConfig({
               { text: 'Introduction', link: '/guide/introduction' },
               { text: 'Installation', link: '/guide/installation' },
               { text: 'Usage', link: '/guide/usage' },
-              { text: 'Set Default SGF Viewer', link: '/guide/set-default-sgf-viewer' },
+              { text: 'Import SGF', link: '/guide/import-sgf' },
               { text: 'LAN Play', link: '/guide/lan-play' },
               { text: 'Permissions', link: '/guide/screen-recording' },
               { text: 'Troubleshooting', link: '/guide/troubleshooting' },

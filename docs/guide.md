@@ -9,7 +9,7 @@ If you're new to Gomoku, start here:
 - **[Introduction](guide/introduction.md)** - Learn what Gomoku is and its key features
 - **[Installation](guide/installation.md)** - Install Gomoku on your Mac
 - **[Usage](guide/usage.md)** - Basic usage guide and keyboard shortcuts
- - **[Set Gomoku as Your Default SGF Viewer](guide/set-default-sgf-viewer.md)** - How to associate `.sgf` files with Gomoku
+ - **[Import SGF](guide/import-sgf.md)** - How to import and open `.sgf` game records
 
 ## Advanced Topics
 
@@ -33,7 +33,7 @@ Once you're familiar with the basics:
 | Troubleshooting | [guide/troubleshooting.md](guide/troubleshooting.md) |
 | FAQ | [guide/faq.md](guide/faq.md) |
 
-| Set Default Viewer | [Set Gomoku as Your Default SGF Viewer](guide/set-default-sgf-viewer.md) |
+| Set Default Viewer | [Import SGF](guide/import-sgf.md) |
 
 ---
 
