@@ -12,7 +12,7 @@ The Mac App Store version provides automatic updates and seamless integration wi
 
 ### GitHub Releases (Alternative)
 
-If you prefer to download directly, you can get the app from [GitHub Releases](https://github.com/reminder-app/reminder/releases). Note that this version does not receive automatic updates.
+If you prefer to download directly, you can get the app from [GitHub Releases](https://github.com/petreminder/reminder/releases). Note that this version does not receive automatic updates.
 
 ## Installation Steps
 

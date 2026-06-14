@@ -27,7 +27,7 @@ PetReminder does not sell any personal information. We do not use third-party an
 ## Contact
 
 If you have questions about privacy choices, open an issue at:
-`https://github.com/reminder-app/reminder/issues`
+`https://github.com/petreminder/reminder/issues`
 
 Or email us at: reminder@w3cub.com
 

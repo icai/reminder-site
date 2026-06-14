@@ -49,7 +49,7 @@ export default defineConfig({
       { text: 'Guide', link: '/guide/introduction' },
       { text: 'Pets', link: '/guide/pets' },
       { text: 'FAQ', link: '/guide/faq' },
-      { text: 'Repository', link: 'https://github.com/reminder-app/reminder' },
+      { text: 'Repository', link: 'https://github.com/petreminder/reminder' },
     ],
     sidebar: [
       {
@@ -75,7 +75,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/reminder-app/reminder' }
+      { icon: 'github', link: 'https://github.com/petreminder/reminder' }
     ],
     footer: {
       message: 'Built with ❤️ for pet lovers',
@@ -104,7 +104,7 @@ export default defineConfig({
             { text: 'About', link: '/guide/introduction' },
             { text: 'Privacy Policy', link: '/guide/privacy' },
             { text: 'Terms of Service', link: '/guide/terms' },
-            { text: 'GitHub', link: 'https://github.com/reminder-app/reminder' }
+            { text: 'GitHub', link: 'https://github.com/petreminder/reminder' }
           ]
         }
       ]

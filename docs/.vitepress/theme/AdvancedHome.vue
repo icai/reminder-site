@@ -151,8 +151,8 @@
             </div>
             <div class="footer-column">
               <h4 class="footer-heading">Community</h4>
-              <a href="https://github.com/reminder-app/reminder" class="footer-link">GitHub</a>
-              <a href="https://github.com/reminder-app/reminder/releases" class="footer-link">Releases</a>
+              <a href="https://github.com/petreminder/reminder" class="footer-link">GitHub</a>
+              <a href="https://github.com/petreminder/reminder/releases" class="footer-link">Releases</a>
             </div>
           </div>
         </div>

@@ -10,7 +10,7 @@ A: PetReminder runs on macOS Monterey (12) and later, optimized for Apple Silico
 
 Q: How do I download and install PetReminder?
 
-A: Download from the [Mac App Store](https://apps.apple.com/app/id6771268165) or grab the latest release from [GitHub Releases](https://github.com/reminder-app/reminder/releases).
+A: Download from the [Mac App Store](https://apps.apple.com/app/id6771268165) or grab the latest release from [GitHub Releases](https://github.com/petreminder/reminder/releases).
 
 Q: Is PetReminder free?
 
@@ -38,7 +38,7 @@ A: Update through the Mac App Store (recommended) or download the latest release
 
 Q: How do I report bugs or request features?
 
-A: Open an issue in the [project repository](https://github.com/reminder-app/reminder) and include your macOS version, PetReminder version, reproduction steps, and logs if available.
+A: Open an issue in the [project repository](https://github.com/petreminder/reminder) and include your macOS version, PetReminder version, reproduction steps, and logs if available.
 
 Q: Where are logs and data stored?
 

@@ -43,7 +43,7 @@ We may update these Terms from time to time. Continued use after changes constit
 ## Contact
 
 For questions about these Terms, open an issue at the project repository:
-`https://github.com/reminder-app/reminder/issues`
+`https://github.com/petreminder/reminder/issues`
 
 Or email us at: reminder@w3cub.com
 

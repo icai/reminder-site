@@ -44,4 +44,4 @@ Since PetReminder stores all data locally on your device, we do not hold any per
 
 ## Contact
 
-For privacy questions, open an issue at the project repository (https://github.com/reminder-app/reminder) or contact us at reminder@w3cub.com.
+For privacy questions, open an issue at the project repository (https://github.com/petreminder/reminder) or contact us at reminder@w3cub.com.

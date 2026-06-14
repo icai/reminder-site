@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the PetReminder documentation! Th
 
 ## Ways to Contribute
 
-- **Report Issues**: Found a bug in the documentation or have a suggestion? [Open an issue](https://github.com/reminder-app/reminder/issues)
+- **Report Issues**: Found a bug in the documentation or have a suggestion? [Open an issue](https://github.com/petreminder/reminder/issues)
 - **Improve Documentation**: Fix typos, clarify instructions, or add missing information
 - **Add Guides**: Create new guides for common issues or features
 - **Translate**: Help translate the documentation to other languages
