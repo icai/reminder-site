@@ -4,6 +4,7 @@
   "type": "module",
   "description": "Official website for PetReminder — macOS reminder app with desktop pets",
   "main": "index.js",
+  "packageManager": "pnpm@10.26.0",
   "homepage": "https://reminder.w3cub.com",
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -12,7 +13,7 @@
     "docs:deploy": "./deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["pet-reminder", "reminder", "desktop-pet", "macos", "tauri"],
+  "keywords": ["pet-reminder", "reminder", "desktop-pet", "macos"],
   "author": "PetReminder Project",
   "license": "ISC",
   "devDependencies": {
