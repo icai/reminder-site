@@ -1,7 +1,123 @@
 {
   "version": 2,
-  "updated_at": "2026-06-18T12:23:01Z",
+  "updated_at": "2026-06-18T16:45:54Z",
   "products": [
+    {
+      "id": "british",
+      "name": "英短猫",
+      "description": "圆滚滚的英短猫，憨态可掬，治愈你的每一天",
+      "price": 0.0,
+      "currency": "USD",
+      "type": "pet",
+      "featured": false,
+      "previews": [
+        "https://reminder.w3cub.com/pets/british/preview_1.webp",
+        "https://reminder.w3cub.com/pets/british/preview_2.webp"
+      ],
+      "download_url": "https://reminder.w3cub.com/pets/british/pet.catpet",
+      "file_hash": "sha256:09a4063fd8636f41231f31e40e41225a367a5fcaa41c5673b8a13c3406e937c3",
+      "file_size": 2628006,
+      "apple_product_id": null,
+      "version": "1.0.0",
+      "localized": {
+        "ms": {
+          "name": "British Shorthair",
+          "description": "Kucing British Shorthair yang gemuk, comel dan menyembuhkan setiap hari"
+        },
+        "el": {
+          "name": "Βρετανική Κοντότριχη",
+          "description": "Μια στρογγυλή Βρετανική Κοντότριχη γάτα, αξιολάτρευτη και θεραπευτική"
+        },
+        "nl": {
+          "name": "Brits Korthaar",
+          "description": "Een mollige Brits Korthaar kat, schattig en genezend voor elke dag"
+        },
+        "th": {
+          "name": "บริติช ช็อตแฮร์",
+          "description": "แมวบริติช ช็อตแฮร์ตัวกลม น่ารัก ช่วยเยียวยาทุกวัน"
+        },
+        "it": {
+          "name": "British Shorthair",
+          "description": "Un British Shorthair paffuto, adorabile e curativo per ogni giorno"
+        },
+        "da": {
+          "name": "Britisk korthår",
+          "description": "En buttet Britisk korthår kat, nuttet og helbredende hver dag"
+        },
+        "tr": {
+          "name": "Britanya Kedisi",
+          "description": "Tombul bir Britanya Kedisi, sevimli ve her gününüzü iyileştiren"
+        },
+        "no": {
+          "name": "Britisk korthår",
+          "description": "En lubben Britisk korthår katt, søt og helbredende hver dag"
+        },
+        "ko": {
+          "name": "브리티시 숏헤어",
+          "description": "통통한 브리티시 숏헤어, 사랑스러운 모습으로 당신의 하루를 치유합니다"
+        },
+        "pt": {
+          "name": "British Shorthair",
+          "description": "Um gato British Shorthair rechonchudo, adorável e que cura seu dia"
+        },
+        "de-CH": {
+          "name": "Britisch Kurzhaar",
+          "description": "E chuschligi Britisch Kurzhaar Chatz, wo jede Tag versüesst"
+        },
+        "es": {
+          "name": "British Shorthair",
+          "description": "Un gato British Shorthair regordete, adorable y sanador"
+        },
+        "vi": {
+          "name": "Mèo Anh lông ngắn",
+          "description": "Chú mèo Anh lông ngắn mũm mĩm, đáng yêu và chữa lành mỗi ngày"
+        },
+        "en": {
+          "name": "British Shorthair",
+          "description": "A chubby British Shorthair cat, adorable and healing your every day"
+        },
+        "ru": {
+          "name": "Британская короткошёрстная",
+          "description": "Пушистый британский короткошёрстный кот, очаровательный и поднимающий настроение"
+        },
+        "hu": {
+          "name": "Brit rövidszőrű",
+          "description": "Egy telt Brit rövidszőrű macska, imádnivaló és gyógyító minden nap"
+        },
+        "id": {
+          "name": "British Shorthair",
+          "description": "Kucing British Shorthair gemuk, menggemaskan dan menyembuhkan setiap hari"
+        },
+        "hi": {
+          "name": "ब्रिटिश शॉर्टहेयर",
+          "description": "एक गोल-मटोल ब्रिटिश शॉर्टहेयर बिल्ली, प्यारी और हर दिन ठीक करने वाली"
+        },
+        "uk": {
+          "name": "Британська короткошерста",
+          "description": "Пухнастий британський короткошерстий кіт, чарівний та піднімає настрій"
+        },
+        "fi": {
+          "name": "Brittiläinen lyhytkarva",
+          "description": "Pyöreä brittiläinen lyhytkarva, suloinen ja parantava joka päivä"
+        },
+        "fr": {
+          "name": "British Shorthair",
+          "description": "Un British Shorthair tout rond, adorable et réconfortant au quotidien"
+        },
+        "zh-TW": {
+          "name": "英短貓",
+          "description": "圓滾滾的英短貓，憨態可掬，療癒你的每一天"
+        },
+        "de": {
+          "name": "Britisch Kurzhaar",
+          "description": "Eine kuschelige Britisch Kurzhaar Katze, die jeden Tag versüßt"
+        },
+        "ja": {
+          "name": "ブリティッシュショートヘア",
+          "description": "丸々としたブリティッシュショートヘア、愛らしい姿であなたの毎日を癒します"
+        }
+      }
+    },
     {
       "id": "corgi",
       "name": "柯基",
@@ -12,18 +128,106 @@
       "featured": true,
       "previews": [],
       "download_url": "https://reminder.w3cub.com/pets/corgi/pet.catpet",
-      "file_hash": "sha256:bcbdd8d76d47b588cb6cc658b125356d9e5910d1a15c0081438ea246f6aed50a",
-      "file_size": 4689945,
+      "file_hash": "sha256:e6c342789cb3b69bbd16600493eaa59e42f62f19a32e216bce358ab08a7706c6",
+      "file_size": 4691254,
       "apple_product_id": "com.reminder.pet.corgi",
       "version": "1.0.0",
       "localized": {
-        "ja": {
-          "name": "コーギー",
-          "description": "元気いっぱいのペンブローク・ウェルシュ・コーギー、ユニークなアクションとサウンドエフェクト"
+        "vi": {
+          "name": "Corgi",
+          "description": "Chú chó Corgi Pembroke xứ Wales vui vẻ với hiệu ứng hoạt hình và âm thanh độc đáo"
+        },
+        "fi": {
+          "name": "Corgi",
+          "description": "Iloinen Pembroke Welsh Corgi ainutlaatuisilla animaatioilla ja äänitehosteilla"
         },
         "en": {
           "name": "Corgi",
           "description": "A cheerful Pembroke Welsh Corgi with unique animations and sound effects"
+        },
+        "hi": {
+          "name": "कॉर्गी",
+          "description": "एक हंसमुख पेमब्रोक वेल्श कॉर्गी अद्वितीय एनिमेशन और ध्वनि प्रभावों के साथ"
+        },
+        "it": {
+          "name": "Corgi",
+          "description": "Un allegro Corgi Pembroke gallese con animazioni ed effetti sonori unici"
+        },
+        "nl": {
+          "name": "Corgi",
+          "description": "Een vrolijke Pembroke Welshe Corgi met unieke animaties en geluidseffecten"
+        },
+        "tr": {
+          "name": "Corgi",
+          "description": "Benzersiz animasyonlar ve ses efektleri ile neşeli bir Pembroke Welsh Corgi"
+        },
+        "id": {
+          "name": "Corgi",
+          "description": "Corgi Pembroke Welsh yang ceria dengan animasi dan efek suara unik"
+        },
+        "ja": {
+          "name": "コーギー",
+          "description": "元気いっぱいのペンブローク・ウェルシュ・コーギー、ユニークなアクションとサウンドエフェクト"
+        },
+        "ko": {
+          "name": "코기",
+          "description": "활발하고 명랑한 펨브록 웰시 코기, 독특한 동작과 사운드 효과"
+        },
+        "no": {
+          "name": "Corgi",
+          "description": "En munter Pembroke Welsh Corgi med unike animasjoner og lydeffekter"
+        },
+        "de": {
+          "name": "Corgi",
+          "description": "Ein fröhlicher Pembroke Welsh Corgi mit einzigartigen Animationen und Soundeffekten"
+        },
+        "el": {
+          "name": "Κόργκι",
+          "description": "Ένα χαρούμενο Κόργκι Ουαλίας Πέμπροκ με μοναδικές κινήσεις και ηχητικά εφέ"
+        },
+        "th": {
+          "name": "คอร์กี้",
+          "description": "คอร์กี้ เพมโบรก เวลช์ ผู้ร่าเริง พร้อมเอฟเฟกต์เคลื่อนไหวและเสียงที่ไม่เหมือนใคร"
+        },
+        "ms": {
+          "name": "Corgi",
+          "description": "Corgi Pembroke Welsh yang ceria dengan animasi dan kesan bunyi yang unik"
+        },
+        "es": {
+          "name": "Corgi",
+          "description": "Un alegre Corgi Pembroke Galés con animaciones y efectos de sonido únicos"
+        },
+        "de-CH": {
+          "name": "Corgi",
+          "description": "En fröhleche Pembroke Welsh Corgi mit einzigartige Animatione und Soundeffekt"
+        },
+        "ru": {
+          "name": "Корги",
+          "description": "Жизнерадостный вельш-корги пемброк с уникальными анимациями и звуковыми эффектами"
+        },
+        "da": {
+          "name": "Corgi",
+          "description": "En munter Pembroke Welsh Corgi med unikke animationer og lydeffekter"
+        },
+        "fr": {
+          "name": "Corgi",
+          "description": "Un Corgi Pembroke gallois joyeux avec des animations et effets sonores uniques"
+        },
+        "pt": {
+          "name": "Corgi",
+          "description": "Um alegre Corgi Pembroke Galês com animações e efeitos sonoros únicos"
+        },
+        "uk": {
+          "name": "Коргі",
+          "description": "Життєрадісний вельш-коргі пемброк з унікальними анімаціями та звуковими ефектами"
+        },
+        "hu": {
+          "name": "Corgi",
+          "description": "Egy vidám Pembroke Welsh Corgi egyedi animációkkal és hangeffektekkel"
+        },
+        "zh-TW": {
+          "name": "柯基",
+          "description": "活潑開朗的彭布羅克威爾斯柯基，擁有獨特的動作和聲音特效"
         }
       }
     },
@@ -37,18 +241,106 @@
       "featured": true,
       "previews": [],
       "download_url": "https://reminder.w3cub.com/pets/husky/pet.catpet",
-      "file_hash": "sha256:34348260cad9d4ce0751efaee18faf2c1feb3e228773236e83649d59b872291c",
-      "file_size": 4393522,
+      "file_hash": "sha256:255e7d27e8a1c911f9a318905b01490e70973c162f61511324484347e963571e",
+      "file_size": 4394784,
       "apple_product_id": "com.reminder.pet.husky",
       "version": "1.0.0",
       "localized": {
-        "en": {
+        "tr": {
           "name": "Husky",
-          "description": "A spirited Siberian Husky with unique animations and sound effects"
+          "description": "Benzersiz animasyonlar ve ses efektleri ile enerjik bir Sibirya Kurdu"
+        },
+        "zh-TW": {
+          "name": "哈士奇",
+          "description": "精力充沛的西伯利亞哈士奇，擁有獨特的動作和聲音特效"
+        },
+        "de-CH": {
+          "name": "Husky",
+          "description": "En temperamentvolle Siberian Husky mit einzigartige Animatione und Soundeffekt"
+        },
+        "hi": {
+          "name": "हस्की",
+          "description": "एक ऊर्जावान साइबेरियन हस्की अद्वितीय एनिमेशन और ध्वनि प्रभावों के साथ"
+        },
+        "fi": {
+          "name": "Husky",
+          "description": "Energinen Siperianhusky ainutlaatuisilla animaatioilla ja äänitehosteilla"
+        },
+        "ms": {
+          "name": "Husky",
+          "description": "Husky Siberia yang bersemangat dengan animasi dan kesan bunyi yang unik"
+        },
+        "id": {
+          "name": "Husky",
+          "description": "Husky Siberia yang bersemangat dengan animasi dan efek suara unik"
         },
         "ja": {
           "name": "ハスキー",
           "description": "元気いっぱいのシベリアンハスキー、ユニークなアクションとサウンドエフェクト"
+        },
+        "fr": {
+          "name": "Husky",
+          "description": "Un Husky sibérien énergique avec des animations et effets sonores uniques"
+        },
+        "de": {
+          "name": "Husky",
+          "description": "Ein temperamentvoller Siberian Husky mit einzigartigen Animationen und Soundeffekten"
+        },
+        "no": {
+          "name": "Husky",
+          "description": "En energisk Sibirian Husky med unike animasjoner og lydeffekter"
+        },
+        "el": {
+          "name": "Χάσκι",
+          "description": "Ένα ζωηρό Χάσκι της Σιβηρίας με μοναδικές κινήσεις και ηχητικά εφέ"
+        },
+        "es": {
+          "name": "Husky",
+          "description": "Un enérgico Husky siberiano con animaciones y efectos de sonido únicos"
+        },
+        "th": {
+          "name": "ฮัสกี้",
+          "description": "ฮัสกี้ ไซบีเรียนผู้กระตือรือร้น พร้อมเอฟเฟกต์เคลื่อนไหวและเสียงที่ไม่เหมือนใคร"
+        },
+        "ru": {
+          "name": "Хаски",
+          "description": "Энергичная сибирская хаски с уникальными анимациями и звуковыми эффектами"
+        },
+        "it": {
+          "name": "Husky",
+          "description": "Un energico Husky siberiano con animazioni ed effetti sonori unici"
+        },
+        "pt": {
+          "name": "Husky",
+          "description": "Um energético Husky siberiano com animações e efeitos sonoros únicos"
+        },
+        "en": {
+          "name": "Husky",
+          "description": "A spirited Siberian Husky with unique animations and sound effects"
+        },
+        "da": {
+          "name": "Husky",
+          "description": "En energisk Sibirisk Husky med unikke animationer og lydeffekter"
+        },
+        "uk": {
+          "name": "Хаскі",
+          "description": "Енергійна сибірська хаскі з унікальними анімаціями та звуковими ефектами"
+        },
+        "ko": {
+          "name": "허스키",
+          "description": "활력 넘치는 시베리안 허스키, 독특한 동작과 사운드 효과"
+        },
+        "hu": {
+          "name": "Husky",
+          "description": "Egy energikus Szibériai Husky egyedi animációkkal és hangeffektekkel"
+        },
+        "nl": {
+          "name": "Husky",
+          "description": "Een energieke Siberische Husky met unieke animaties en geluidseffecten"
+        },
+        "vi": {
+          "name": "Husky",
+          "description": "Chú chó Husky Siberia tràn đầy năng lượng với hiệu ứng hoạt hình và âm thanh độc đáo"
         }
       }
     },
@@ -65,18 +357,106 @@
         "https://reminder.w3cub.com/pets/ragdoll/preview_2.webp"
       ],
       "download_url": "https://reminder.w3cub.com/pets/ragdoll/pet.catpet",
-      "file_hash": "sha256:d39470f18895598cdc05dec08d49c834abcc145ef8cce781141f133547b8a3f9",
-      "file_size": 2595477,
+      "file_hash": "sha256:77c08a35125fae99170d19f55b43e5c9eb411571f896e435b51f1287e0071597",
+      "file_size": 2596719,
       "apple_product_id": "com.reminder.pet.ragdoll",
       "version": "1.0.0",
       "localized": {
+        "id": {
+          "name": "Ragdoll",
+          "description": "Kucing Ragdoll yang elegan dengan animasi dan efek suara unik"
+        },
+        "el": {
+          "name": "Ράγκντολ",
+          "description": "Μια κομψή γάτα Ράγκντολ με μοναδικές κινήσεις και ηχητικά εφέ"
+        },
+        "zh-TW": {
+          "name": "布偶貓",
+          "description": "優雅高貴的布偶貓，擁有獨特的動作和聲音特效"
+        },
+        "fr": {
+          "name": "Ragdoll",
+          "description": "Un chat Ragdoll élégant avec des animations et effets sonores uniques"
+        },
+        "it": {
+          "name": "Ragdoll",
+          "description": "Un elegante gatto Ragdoll con animazioni ed effetti sonori unici"
+        },
+        "ru": {
+          "name": "Рэгдолл",
+          "description": "Элегантный кот породы рэгдолл с уникальными анимациями и звуковыми эффектами"
+        },
+        "no": {
+          "name": "Ragdoll",
+          "description": "En elegant Ragdoll katt med unike animasjoner og lydeffekter"
+        },
+        "es": {
+          "name": "Ragdoll",
+          "description": "Un elegante gato Ragdoll con animaciones y efectos de sonido únicos"
+        },
+        "hu": {
+          "name": "Ragdoll",
+          "description": "Egy elegáns Ragdoll macska egyedi animációkkal és hangeffektekkel"
+        },
+        "hi": {
+          "name": "रैगडॉल",
+          "description": "एक सुंदर रैगडॉल बिल्ली अद्वितीय एनिमेशन और ध्वनि प्रभावों के साथ"
+        },
+        "ms": {
+          "name": "Ragdoll",
+          "description": "Kucing Ragdoll yang elegan dengan animasi dan kesan bunyi yang unik"
+        },
+        "tr": {
+          "name": "Ragdoll",
+          "description": "Benzersiz animasyonlar ve ses efektleri ile zarif bir Ragdoll kedisi"
+        },
+        "pt": {
+          "name": "Ragdoll",
+          "description": "Um elegante gato Ragdoll com animações e efeitos sonoros únicos"
+        },
+        "fi": {
+          "name": "Ragdoll",
+          "description": "Tyylikäs Ragdoll-kissa ainutlaatuisilla animaatioilla ja äänitehosteilla"
+        },
         "ja": {
           "name": "ラグドール",
           "description": "優雅で気品あふれるラグドール、ユニークなアクションとサウンドエフェクト"
         },
+        "nl": {
+          "name": "Ragdoll",
+          "description": "Een elegante Ragdoll kat met unieke animaties en geluidseffecten"
+        },
+        "th": {
+          "name": "แร็กดอลล์",
+          "description": "แมวแร็กดอลล์ผู้สง่างาม พร้อมเอฟเฟกต์เคลื่อนไหวและเสียงที่ไม่เหมือนใคร"
+        },
+        "da": {
+          "name": "Ragdoll",
+          "description": "En elegant Ragdoll kat med unikke animationer og lydeffekter"
+        },
+        "de-CH": {
+          "name": "Ragdoll",
+          "description": "E eleganti Ragdoll Chatz mit einzigartige Animatione und Soundeffekt"
+        },
+        "de": {
+          "name": "Ragdoll",
+          "description": "Eine elegante Ragdoll Katze mit einzigartigen Animationen und Soundeffekten"
+        },
         "en": {
           "name": "Ragdoll Cat",
           "description": "An elegant Ragdoll cat with unique animations and sound effects"
+        },
+        "uk": {
+          "name": "Регдол",
+          "description": "Елегантний кіт породи регдол з унікальними анімаціями та звуковими ефектами"
+        },
+        "ko": {
+          "name": "래그돌",
+          "description": "우아하고 고귀한 래그돌, 독특한 동작과 사운드 효과"
+        },
+        "vi": {
+          "name": "Mèo Ragdoll",
+          "description": "Chú mèo Ragdoll thanh lịch với hiệu ứng hoạt hình và âm thanh độc đáo"
         }
       }
     },
@@ -90,18 +470,106 @@
       "featured": true,
       "previews": [],
       "download_url": "https://reminder.w3cub.com/pets/shibainu/pet.catpet",
-      "file_hash": "sha256:4bc52375b71c38b69386268df58efbde9fbeaa13021662365a77010076de4873",
-      "file_size": 4421144,
+      "file_hash": "sha256:34c1862c6cd9f5defd3b6a05a7b0732c3600d8c72c99c1fbb338a537172891ca",
+      "file_size": 4422452,
       "apple_product_id": "com.reminder.pet.shibainu",
       "version": "1.0.0",
       "localized": {
-        "en": {
+        "uk": {
+          "name": "Сіба-іну",
+          "description": "Жвава та незалежна сіба-іну з унікальними анімаціями та звуковими ефектами"
+        },
+        "id": {
           "name": "Shiba Inu",
-          "description": "A spirited Shiba Inu with unique animations and sound effects"
+          "description": "Shiba Inu yang lincah dan mandiri dengan animasi dan efek suara unik"
+        },
+        "de": {
+          "name": "Shiba Inu",
+          "description": "Ein lebhafter Shiba Inu mit einzigartigen Animationen und Soundeffekten"
+        },
+        "es": {
+          "name": "Shiba Inu",
+          "description": "Un enérgico Shiba Inu con animaciones y efectos de sonido únicos"
+        },
+        "da": {
+          "name": "Shiba Inu",
+          "description": "En livlig og uafhængig Shiba Inu med unikke animationer og lydeffekter"
+        },
+        "nl": {
+          "name": "Shiba Inu",
+          "description": "Een levendige Shiba Inu met unieke animaties en geluidseffecten"
+        },
+        "hi": {
+          "name": "शिबा इनु",
+          "description": "एक जीवंत शिबा इनु अद्वितीय एनिमेशन और ध्वनि प्रभावों के साथ"
         },
         "ja": {
           "name": "柴犬",
           "description": "活発で独立心あふれる柴犬、ユニークなアクションとサウンドエフェクト"
+        },
+        "fr": {
+          "name": "Shiba Inu",
+          "description": "Un Shiba Inu vif et indépendant avec des animations et effets sonores uniques"
+        },
+        "ms": {
+          "name": "Shiba Inu",
+          "description": "Shiba Inu yang lincah dan bebas dengan animasi dan kesan bunyi yang unik"
+        },
+        "ru": {
+          "name": "Сиба-ину",
+          "description": "Живая и независимая сиба-ину с уникальными анимациями и звуковыми эффектами"
+        },
+        "de-CH": {
+          "name": "Shiba Inu",
+          "description": "En läbhafte Shiba Inu mit einzigartige Animatione und Soundeffekt"
+        },
+        "pt": {
+          "name": "Shiba Inu",
+          "description": "Um animado Shiba Inu com animações e efeitos sonoros únicos"
+        },
+        "en": {
+          "name": "Shiba Inu",
+          "description": "A spirited Shiba Inu with unique animations and sound effects"
+        },
+        "it": {
+          "name": "Shiba Inu",
+          "description": "Un vivace Shiba Inu con animazioni ed effetti sonori unici"
+        },
+        "el": {
+          "name": "Σίμπα Ίνου",
+          "description": "Ένα ζωηρό και ανεξάρτητο Σίμπα Ίνου με μοναδικές κινήσεις και ηχητικά εφέ"
+        },
+        "vi": {
+          "name": "Shiba Inu",
+          "description": "Chú chó Shiba Inu nhanh nhẹn và độc lập với hiệu ứng hoạt hình và âm thanh độc đáo"
+        },
+        "zh-TW": {
+          "name": "柴犬",
+          "description": "機靈獨立的柴犬，擁有獨特的動作和聲音特效"
+        },
+        "th": {
+          "name": "ชิบะ อินุ",
+          "description": "ชิบะ อินุผู้คล่องแคล่วและเป็นอิสระ พร้อมเอฟเฟกต์เคลื่อนไหวและเสียงที่ไม่เหมือนใคร"
+        },
+        "ko": {
+          "name": "시바 이누",
+          "description": "영리하고 독립적인 시바 이누, 독특한 동작과 사운드 효과"
+        },
+        "fi": {
+          "name": "Shiba Inu",
+          "description": "Eläväinen ja itsenäinen Shiba Inu ainutlaatuisilla animaatioilla ja äänitehosteilla"
+        },
+        "no": {
+          "name": "Shiba Inu",
+          "description": "En livlig og uavhengig Shiba Inu med unike animasjoner og lydeffekter"
+        },
+        "tr": {
+          "name": "Shiba Inu",
+          "description": "Benzersiz animasyonlar ve ses efektleri ile canlı ve bağımsız bir Shiba Inu"
+        },
+        "hu": {
+          "name": "Shiba Inu",
+          "description": "Egy élénk és független Shiba Inu egyedi animációkkal és hangeffektekkel"
         }
       }
     },
@@ -115,18 +583,134 @@
       "featured": false,
       "previews": [],
       "download_url": "https://reminder.w3cub.com/pets/tugou/pet.catpet",
-      "file_hash": "sha256:5526a688a05ff425fab40672ef58a8768ef0022cb41b2552923b07bf51321a61",
-      "file_size": 4557832,
+      "file_hash": "sha256:ff0d0bef4284f0dfe7db386f9a9a759a268d377cc6f97c9bc67cfb8f3f8ebed6",
+      "file_size": 4559365,
       "apple_product_id": "com.reminder.pet.tugou",
       "version": "1.0.0",
       "localized": {
-        "ja": {
-          "name": "チャイニーズ・ドッグ",
-          "description": "忠実で警戒心あふれるチャイニーズ・ドッグ、ユニークなアクションとサウンドエフェクト"
+        "vi": {
+          "name": "Chó bản địa Trung Quốc",
+          "description": "Chú chó bản địa Trung Quốc trung thành và cảnh giác với hiệu ứng hoạt hình và âm thanh độc đáo"
+        },
+        "da": {
+          "name": "Kinesisk gadehund",
+          "description": "En loyal og påpasselig kinesisk gadehund med unikke animationer og lydeffekter"
+        },
+        "de": {
+          "name": "Chinesischer Haushund",
+          "description": "Ein treuer chinesischer Haushund mit einzigartigen Animationen und Soundeffekten"
+        },
+        "es": {
+          "name": "Perro Nativo Chino",
+          "description": "Un leal perro nativo chino con animaciones y efectos de sonido únicos"
+        },
+        "ko": {
+          "name": "차이니즈 네이티브 독",
+          "description": "충성스럽고 경계심 많은 차이니즈 네이티브 독, 독특한 동작과 사운드 효과"
+        },
+        "pt": {
+          "name": "Cão Nativo Chinês",
+          "description": "Um leal cão nativo chinês com animações e efeitos sonoros únicos"
+        },
+        "fr": {
+          "name": "Chien Chinois",
+          "description": "Un chien chinois loyal et vigilant avec des animations et effets sonores uniques"
+        },
+        "fi": {
+          "name": "Kiinalainen koira",
+          "description": "Uskollinen ja valpas kiinalainen koira ainutlaatuisilla animaatioilla ja äänitehosteilla"
+        },
+        "zh-TW": {
+          "name": "土狗",
+          "description": "忠誠機警的中華田園犬，擁有獨特的動作和聲音特效"
+        },
+        "nl": {
+          "name": "Chinese Hond",
+          "description": "Een trouwe Chinese hond met unieke animaties en geluidseffecten"
+        },
+        "tr": {
+          "name": "Çin Yerli Köpeği",
+          "description": "Benzersiz animasyonlar ve ses efektleri ile sadık ve uyanık bir Çin Yerli Köpeği"
+        },
+        "hu": {
+          "name": "Kínai kutya",
+          "description": "Egy hűséges és éber kínai kutya egyedi animációkkal és hangeffektekkel"
         },
         "en": {
           "name": "Chinese Native Dog",
           "description": "A loyal Chinese native dog with unique animations and sound effects"
+        },
+        "hi": {
+          "name": "चीनी देशी कुत्ता",
+          "description": "एक वफादार चीनी देशी कुत्ता अद्वितीय एनिमेशन और ध्वनि प्रभावों के साथ"
+        },
+        "no": {
+          "name": "Kinesisk gatehund",
+          "description": "En lojal og årvåken kinesisk gatehund med unike animasjoner og lydeffekter"
+        },
+        "de-CH": {
+          "name": "Chinesische Huushund",
+          "description": "En treue chinesische Huushund mit einzigartige Animatione und Soundeffekt"
+        },
+        "uk": {
+          "name": "Китайська дворняжка",
+          "description": "Вірна китайська дворняжка з унікальними анімаціями та звуковими ефектами"
+        },
+        "ja": {
+          "name": "チャイニーズ・ドッグ",
+          "description": "忠実で警戒心あふれるチャイニーズ・ドッグ、ユニークなアクションとサウンドエフェクト"
+        },
+        "el": {
+          "name": "Κινέζικο Αυτόχθονο Σκυλί",
+          "description": "Ένα πιστό και άγρυπνο Κινέζικο Αυτόχθονο Σκυλί με μοναδικές κινήσεις και ηχητικά εφέ"
+        },
+        "it": {
+          "name": "Cane Nativo Cinese",
+          "description": "Un fedele cane nativo cinese con animazioni ed effetti sonori unici"
+        },
+        "th": {
+          "name": "สุนัขพื้นเมืองจีน",
+          "description": "สุนัขพื้นเมืองจีนผู้ซื่อสัตย์และตื่นตัว พร้อมเอฟเฟกต์เคลื่อนไหวและเสียงที่ไม่เหมือนใคร"
+        },
+        "id": {
+          "name": "Anjing Asli China",
+          "description": "Anjing Asli China yang setia dan waspada dengan animasi dan efek suara unik"
+        },
+        "ru": {
+          "name": "Китайская дворняжка",
+          "description": "Преданная китайская дворняжка с уникальными анимациями и звуковыми эффектами"
+        },
+        "ms": {
+          "name": "Anjing Asli China",
+          "description": "Anjing Asli China yang setia dan berjaga-jaga dengan animasi dan kesan bunyi yang unik"
+        }
+      }
+    },
+    {
+      "id": "bundle.cats",
+      "name": "全猫套装",
+      "description": "解锁布偶猫 + 英短猫，超值优惠价",
+      "price": 19.99,
+      "currency": "USD",
+      "type": "bundle",
+      "featured": true,
+      "previews": [
+        "https://reminder.w3cub.com/pets/ragdoll/preview_1.webp",
+        "https://reminder.w3cub.com/pets/british/preview_1.webp"
+      ],
+      "download_url": "",
+      "file_hash": "",
+      "file_size": 0,
+      "apple_product_id": "com.reminder.bundle.cats",
+      "version": "1.0.0",
+      "localized": {
+        "en": {
+          "name": "Cats Bundle",
+          "description": "Unlock Ragdoll + British Shorthair at a special price"
+        },
+        "ja": {
+          "name": "キャットバンドル",
+          "description": "ラグドール + ブリティッシュショートヘアをお得な価格でアンロック"
         }
       }
     },
@@ -145,13 +729,13 @@
       "apple_product_id": "com.reminder.pack.all",
       "version": "1.0.0",
       "localized": {
-        "en": {
-          "name": "All Pets Pack",
-          "description": "Unlock all premium pets in the shop"
-        },
         "ja": {
           "name": "全ペットパック",
           "description": "ショップの全てのプレミアムペットをアンロック"
+        },
+        "en": {
+          "name": "All Pets Pack",
+          "description": "Unlock all premium pets in the shop"
         }
       }
     }
