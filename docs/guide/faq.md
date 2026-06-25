@@ -10,7 +10,7 @@ A: PetReminder runs on macOS Monterey (12) and later, optimized for Apple Silico
 
 Q: How do I download and install PetReminder?
 
-A: Download from the [Mac App Store](https://apps.apple.com/app/id6771268165) or grab the latest release from [GitHub Releases](https://github.com/petreminder/reminder/releases).
+A: Download from the [Mac App Store](https://apps.apple.com/app/id6776577400).
 
 Q: Is PetReminder free?
 

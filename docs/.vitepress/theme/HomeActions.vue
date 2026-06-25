@@ -5,7 +5,7 @@ import { withBase } from 'vitepress'
 <template>
   <div class="home-badge-row">
     <a
-      href="https://apps.apple.com/app/id6771268165" target="_blank" rel="noopener noreferrer"
+      href="https://apps.apple.com/app/id6776577400" target="_blank" rel="noopener noreferrer"
       class="store-badge-link"
       aria-label="Download PetReminder on the Mac App Store"
     >

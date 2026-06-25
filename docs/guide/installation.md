@@ -6,7 +6,7 @@ PetReminder is available for macOS through the Mac App Store.
 
 ### Mac App Store (Recommended)
 
-- **Download**: [PetReminder on the Mac App Store](https://apps.apple.com/app/id6771268165)
+- **Download**: [PetReminder on the Mac App Store](https://apps.apple.com/app/id6776577400)
 
 The Mac App Store version provides automatic updates and seamless integration with macOS.
 
